@@ -1,2 +1,1 @@
 # Algorithms
-Links for algorithms
